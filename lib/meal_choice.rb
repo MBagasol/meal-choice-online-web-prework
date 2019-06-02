@@ -1,3 +1,1 @@
-def meal_choice(protein="meat")
- 
-end
+meal_choice = "meat"
